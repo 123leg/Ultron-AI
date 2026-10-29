@@ -6,7 +6,7 @@
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
 
-    <application
+    <applicationq
         android:label="ULTRON AI"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
@@ -24,5 +24,3 @@
             android:exported="false"/>
     </application>
 </manifest>
-
-Fix AndroidManifest XML parsing error
