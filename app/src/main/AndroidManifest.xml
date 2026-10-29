@@ -24,4 +24,5 @@
             android:exported="false"/>
     </application>
 </manifest>
-          
+
+Fix AndroidManifest XML parsing error
